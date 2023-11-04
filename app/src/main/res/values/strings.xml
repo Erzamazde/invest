@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomTopAppBar</string>
+    <string name="search">Search</string>
+    <string name="search_icon">search icon</string>
+    <string name="close_icon">close icon</string>
+    <string name="personality"> personality</string>
+    <string name="sex">sex </string>
+    <string name="age">age </string>
+</resources>
